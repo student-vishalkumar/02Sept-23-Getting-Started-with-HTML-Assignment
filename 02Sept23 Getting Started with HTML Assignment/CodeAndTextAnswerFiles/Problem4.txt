@@ -1,0 +1,9 @@
+Write a short note on Tag and element with an example?
+
+Html Tag -
+HTML tags are the keywords on a web page that define how your web browser must format and display your web page.
+
+Almost all tags contain two parts, an opening, and a closing tag. For example, <html> is the opening tag and </html> is the closing tag.
+
+Mtml element-
+An element in HTML usually consist of a start tag <tag name>, close tag </tag name> and content inserted between them.We can say that an element is a collection of start tag, attributes, end tag, content between them.

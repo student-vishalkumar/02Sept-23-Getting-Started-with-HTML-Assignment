@@ -1,0 +1,19 @@
+1. Purpose of comments in html.
+Adding comments in HTML can help you write and organize the backend of your webpage. They’re so useful that it’s considered a best practice to use them.
+
+Types of HTML Comments
+-Single-line comment.
+-Inline comment.
+-Multi-lines comment
+
+Example- 
+
+<!DOCTYPE html>
+<head>
+    <title>Single-Line Comment</title>
+</head>
+<body>
+    <!-- This is a HTML comment. -->
+   <p> This is an example of single-line comment.</p>
+</body>
+</html>
